@@ -13,7 +13,7 @@ This repository contains a Python-based billing software application designed to
 
 ## Requirements
 To run this project, you'll need:
-- Python 3.x
+- Python 3.10
 - Tkinter library (pre-installed with Python)
 
 ## Installation
