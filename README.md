@@ -16,6 +16,8 @@ To run this project, you'll need:
 - Python 3.10
 - Tkinter library (pre-installed with Python)
 
+**Screenshot**
+![Billing_receipt]()
 ## Installation
 1. Clone the repository:
    ```bash
