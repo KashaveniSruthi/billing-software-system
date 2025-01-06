@@ -17,7 +17,7 @@ To run this project, you'll need:
 - Tkinter library (pre-installed with Python)
 
 **Screenshot**
-![Billing_receipt]()
+![Billing_receipt](https://github.com/KashaveniSruthi/billing-system/blob/58456b4cb0869ec2e07d5733f0c50125f3934496/billing.png)
 ## Installation
 1. Clone the repository:
    ```bash
