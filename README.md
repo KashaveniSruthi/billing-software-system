@@ -21,7 +21,7 @@ To run this project, you'll need:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KashaveniSruthi/billing-software-system.git
+   https://github.com/KashaveniSruthi/billing-software-system.git
    ```
 2. Navigate to the project directory:
    ```bash
