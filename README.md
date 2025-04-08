@@ -40,7 +40,7 @@ To run this project, you'll need:
 ## Usage
 1. Run the Python script:
    ```bash
-   python billing_software.py
+   python billing-sytem.py
    ```
 2. Use the graphical interface to:
    - Add products to different categories.
