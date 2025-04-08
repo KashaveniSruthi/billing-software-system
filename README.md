@@ -1,4 +1,4 @@
-# Billing Software in Python
+# Billing Software System in Python
 
 This repository contains a Python-based billing software application designed to help businesses manage their billing and accounting processes. The software allows users to create invoices, track payments, and manage customer data with an intuitive interface built using the Tkinter library.
 
@@ -21,11 +21,11 @@ To run this project, you'll need:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/billing-system.git
+   git clone https://github.com/yourusername/billing-software-system.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd billing-system
+   cd billing-software-system
    ```
 3. (Optional) Create and activate a virtual environment:
    ```bash
@@ -40,7 +40,7 @@ To run this project, you'll need:
 ## Usage
 1. Run the Python script:
    ```bash
-   python billing-sytem.py
+   python billing-software-system.py
    ```
 2. Use the graphical interface to:
    - Add products to different categories.
