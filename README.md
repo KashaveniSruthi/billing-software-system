@@ -21,11 +21,11 @@ To run this project, you'll need:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/billing-software.git
+   git clone https://github.com/yourusername/billing-system.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd billing-software
+   cd billing-system
    ```
 3. (Optional) Create and activate a virtual environment:
    ```bash
