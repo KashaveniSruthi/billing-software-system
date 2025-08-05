@@ -90,9 +90,4 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-- Python Documentation: [https://www.python.org/doc/](https://www.python.org/doc/)
-- Tkinter Documentation: [https://docs.python.org/3/library/tkinter.html](https://docs.python.org/3/library/tkinter.html)
